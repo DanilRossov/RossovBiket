@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RossovBiket</string>
+    <string name="tab_text_1">Желтый букет</string>
+    <string name="tab_text_2">Фиолетовый букет</string>
+    <string name="tab_text_3">Красный букет</string>
+    <string name="tab_text_4">Самый красивый букет</string>
+</resources>
